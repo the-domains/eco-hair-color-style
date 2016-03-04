@@ -1,0 +1,14 @@
+layout_spectrum: 0.9078947
+typography_spectrum: 0.3175334
+color:
+  saturation: 0.4028822
+  lightness: 0.5983709
+  brandStrength: 0.7750627
+  brandColors:
+    - '#FAF4D0'
+    - '#425CA3'
+    - '#5D5C4B'
+    - '#9ABDFF'
+    - '#3B1F02'
+  rhythmicContrast: 0.6102757
+name: Eco Hair Color Style
