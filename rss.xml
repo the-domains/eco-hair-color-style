@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Eco Hair Color Style]]></title>
         <description><![CDATA[Eco Hair Color Style]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eco-hair-color-style/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 14:51:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 05:14:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eco-hair-color-style/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your Hair Here...]]></title>
+            <description><![CDATA[<article><h1>Your Hair Here...</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcf3f0f7f3fcc377043d91db6d94b195877f4274.png"></article>]]></description>
+            <link>urn:uuid:f08b4311-3bc2-4fad-9651-53459d30cc99</link>
+            <guid isPermaLink="false">9fad54be-0b76-4581-a442-02a66eade2af</guid>
+            <pubDate>Sat, 05 Mar 2016 05:14:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Organic Way Head-Spa Concept]]></title>
             <description><![CDATA[<article><h1>Organic Way Head-Spa Concept</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe7b2ab3970a3380ddf56f4875fab8f862fc1b7.png"></article>]]></description>
-            <link>undefinedorganic-way-head-spa-concept/index.html</link>
+            <link>https://thegrid.ai/eco-hair-color-style/organic-way-head-spa-concept/index.html</link>
             <guid isPermaLink="false">48971d55-b8e6-46e9-a65f-56760b9e723d</guid>
             <pubDate>Fri, 04 Mar 2016 14:51:17 GMT</pubDate>
         </item>
