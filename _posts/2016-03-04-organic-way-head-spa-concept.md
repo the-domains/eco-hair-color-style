@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T14:40:09.919Z'
-dateModified: '2016-03-05T13:17:39.421Z'
+datePublished: '2016-03-05T14:42:57.388Z'
+dateModified: '2016-03-05T14:41:02.970Z'
 author: []
 title: "Organic Way Head-Spa Concept\_Salon"
 sourcePath: _posts/2016-03-04-organic-way-head-spa-concept.md
