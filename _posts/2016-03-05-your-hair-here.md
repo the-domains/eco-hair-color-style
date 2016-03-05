@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: '1660 NE Miami Gardens Drive Suite-27 INSIDE The Beauty Mall North Miami Beach Fl, 33179 Call 954-304-3297'
-datePublished: '2016-03-05T12:57:02.602Z'
-dateModified: '2016-03-05T12:11:37.710Z'
+datePublished: '2016-03-05T14:42:43.590Z'
+dateModified: '2016-03-05T14:40:27.162Z'
 author: []
 title: Your Hair Here...
 sourcePath: _posts/2016-03-05-your-hair-here.md
