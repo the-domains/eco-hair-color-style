@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:f08b4311-3bc2-4fad-9651-53459d30cc99'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-05T05:14:29.711Z'
-dateModified: '2016-03-05T05:13:53.938Z'
+description: 'Relax, Refresh, Redesign your hair The Organic Way'
+datePublished: '2016-03-05T05:35:52.493Z'
+dateModified: '2016-03-05T05:35:51.371Z'
 author: []
 title: Your Hair Here...
+sourcePath: _posts/2016-03-05-your-hair-here.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-your-hair-here.md
-published: true
+url: your-hair-here/index.html
 _context: 'http://schema.org'
 _type: Article
 
