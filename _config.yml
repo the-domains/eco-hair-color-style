@@ -1,6 +1,6 @@
 name: Eco Hair Color Style
 favicon: null
-layout_spectrum: 0.2553
+layout_spectrum: 0.66592
 typography_spectrum: 0.44672
 title: Eco Hair Color Style
 collections:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.75
   lightness: 0.625
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
