@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: 'Relax, Refresh, Redesign your hair The Organic Way'
-datePublished: '2016-03-05T05:35:52.493Z'
-dateModified: '2016-03-05T05:35:51.371Z'
+description: '1660 NE Miami Gardens Drive Suite-27 INSIDE The Beauty Mall North Miami Beach Fl, 33179'
+datePublished: '2016-03-05T11:48:15.091Z'
+dateModified: '2016-03-05T11:47:47.785Z'
 author: []
 title: Your Hair Here...
 sourcePath: _posts/2016-03-05-your-hair-here.md
