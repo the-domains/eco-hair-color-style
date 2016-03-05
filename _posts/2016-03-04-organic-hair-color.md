@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Ammonia Free - Organic Hair Color, Hair Cutting and Hair Care. Tyler Fenix is a Certified Organic Hair Colorist and Stylist. Located in North Miami Beach Florida, Eco Hair Color Style uses techniques and products focused on nourishing and damage free to the hair fiber, while providing top quality results. Experience One on One treatment by appointment today!'
-datePublished: '2016-03-05T12:56:03.035Z'
-dateModified: '2016-03-05T12:19:53.010Z'
+datePublished: '2016-03-05T14:43:05.757Z'
+dateModified: '2016-03-05T14:41:41.255Z'
 title: Organic Hair Color
 author: []
 sourcePath: _posts/2016-03-04-organic-hair-color.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: organic-hair-color/index.html
+_type: Article
 
 ---
 * **A Revolution in Hair Design ****with an Organic twist of Ammonia Free Color!**
