@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '1660 NE Miami Gardens Drive Suite-27 INSIDE The Beauty Mall North Miami Beach Fl, 33179'
-datePublished: '2016-03-05T11:48:15.091Z'
-dateModified: '2016-03-05T11:47:47.785Z'
+datePublished: '2016-03-05T12:11:30.171Z'
+dateModified: '2016-03-05T12:10:51.186Z'
 author: []
 title: Your Hair Here...
 sourcePath: _posts/2016-03-05-your-hair-here.md
