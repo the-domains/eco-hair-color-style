@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'urn:uuid:e7ac478f-d499-4f76-8df2-eed022f019ac'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T01:37:58.145Z'
-dateModified: '2016-03-06T15:23:18.393Z'
+datePublished: '2016-03-08T14:36:35.143Z'
+dateModified: '2016-03-08T14:35:52.466Z'
 author: []
 title: "Organic Way Head-Spa Concept\_Salon"
 sourcePath: _posts/2016-03-04-organic-way-head-spa-concept.md
@@ -18,7 +19,6 @@ publisher:
   domain: ''
   url: null
   favicon: null
-url: organic-way-head-spa-concept-salon/index.html
 _context: 'http://schema.org'
 _type: Article
 
