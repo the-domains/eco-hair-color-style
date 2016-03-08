@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T14:37:53.950Z'
-dateModified: '2016-03-08T14:37:26.184Z'
+datePublished: '2016-03-08T23:00:17.428Z'
+dateModified: '2016-03-08T23:00:07.787Z'
 author: []
 title: Eco Hair Color Style Ammonia Free Organic Salon Suite
 authors: []
@@ -24,4 +24,4 @@ _type: Article
 
 ---
 # Eco Hair Color Style Ammonia Free Organic Salon Suite
-![The Green Hair Experience](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33c361e8e1df210a9b4948830b2f35f94a85c0a3.png)
+![The Green Hair Experience ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33c361e8e1df210a9b4948830b2f35f94a85c0a3.png)
