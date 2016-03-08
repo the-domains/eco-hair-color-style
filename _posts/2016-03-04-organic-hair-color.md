@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Eco Hair Color Style Logo Eco-Organic Hair Color & Style in North Miami Beach'
-datePublished: '2016-03-08T15:23:09.827Z'
-dateModified: '2016-03-08T14:35:18.531Z'
+datePublished: '2016-03-08T23:07:44.157Z'
+dateModified: '2016-03-08T23:07:37.452Z'
 title: Eco Hair Color Style
 author: []
 sourcePath: _posts/2016-03-04-organic-hair-color.md
