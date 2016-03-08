@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T14:36:35.143Z'
-dateModified: '2016-03-08T14:35:52.466Z'
+datePublished: '2016-03-08T22:57:11.088Z'
+dateModified: '2016-03-08T15:24:02.616Z'
 author: []
 title: "Organic Way Head-Spa Concept\_Salon"
 sourcePath: _posts/2016-03-04-organic-way-head-spa-concept.md
@@ -26,6 +26,6 @@ _type: Article
 # [Organic Way Head-Spa Concept Salon][0]
 
 Biodynamic & Organic Farm to Chair Products and Hair Color made from ethically sourced and produced ingredients. Oway has NO SLS or SLES and is - Parabens, Petrolatum, PEG, PG, BBG, EDTA, Synthetic Fragrance & Artificial Colorants FREE!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fe7b2ab3970a3380ddf56f4875fab8f862fc1b7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65bf08e6-4e95-49d7-806f-c3044459f4c0.png)
 
 [0]: oway.com
