@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T13:50:41.518Z'
-dateModified: '2016-03-08T13:49:49.658Z'
+datePublished: '2016-03-08T14:37:53.950Z'
+dateModified: '2016-03-08T14:37:26.184Z'
 author: []
 title: Eco Hair Color Style Ammonia Free Organic Salon Suite
 authors: []
