@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "1-on-1 treatments, hair color and style in my ammonia free organic salon suite. You deserve quiet time without being passed around, person to person, in a large, noisy and fume polluted chain-style salon. With Tyler of Eco Hair Color Style you get personalized consultations with focused attention to details. The Organic Way HeadSpa status offers a retreat from the daily grind where you can unwind. Experience Organic, Biodynamic plant based ingredients in your hair color and products alike!\_"
-datePublished: '2016-03-08T22:55:51.624Z'
-dateModified: '2016-03-08T22:55:00.639Z'
+datePublished: '2016-03-08T23:09:05.920Z'
+dateModified: '2016-03-08T23:09:03.074Z'
 author: []
 title: Your Hair Here...
 sourcePath: _posts/2016-03-05-your-hair-here.md
