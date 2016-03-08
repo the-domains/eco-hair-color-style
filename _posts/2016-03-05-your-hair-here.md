@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:f08b4311-3bc2-4fad-9651-53459d30cc99'
 inLanguage: null
 starred: false
 keywords: []
-description: '1660 NE Miami Gardens Drive Suite-27 INSIDE The Beauty Mall North Miami Beach Fl, 33179 Call 954-304-3297'
-datePublished: '2016-03-06T15:25:37.383Z'
-dateModified: '2016-03-06T15:22:32.762Z'
+description: "1-on-1 treatments, hair color and style in my ammonia free organic salon suite. You deserve quiet time without being passed around, person to person, in a large, noisy and fume polluted chain-style salon. With Tyler of Eco Hair Color Style you get personalized consultations with focused attention to details. The Organic Way HeadSpa status offers a retreat from the daily grind where you can unwind. Experience Organic, Biodynamic plant based ingredients in your hair color and products alike!\_"
+datePublished: '2016-03-08T14:36:44.643Z'
+dateModified: '2016-03-08T14:24:22.030Z'
 author: []
 title: Your Hair Here...
 sourcePath: _posts/2016-03-05-your-hair-here.md
@@ -18,7 +19,6 @@ publisher:
   domain: ''
   url: null
   favicon: null
-url: your-hair-here/index.html
 _context: 'http://schema.org'
 _type: Article
 
