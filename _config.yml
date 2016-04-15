@@ -1,5 +1,8 @@
+name: Eco Hair Color Style
+favicon: null
+layout_spectrum: 0.63452
+typography_spectrum: 0.44672
 title: Eco Hair Color Style
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.75
-  rhythmicContrast: 0.5
   brandColors:
     - '#dad9b3'
     - '#ffffff'
     - '#552700'
     - '#54b629'
     - '#4b70bd'
+  brandStrength: 0.75
   lightness: 0.5625
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Eco Hair Color Style
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.44672
-layout_spectrum: 0.5752687
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
